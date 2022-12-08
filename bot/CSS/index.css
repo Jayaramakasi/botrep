@@ -1,0 +1,489 @@
+#c
+{
+	height: 1000px;
+	background: transparent;
+
+	flex-direction: column;
+	flex-wrap: wrap;
+
+}
+#c1
+{
+	height: 50px;
+	background: #332e29;
+	border: 1px solid ;
+	border-color: transparent transparent lightgrey transparent;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+#c2
+{
+	height: 50px;
+/*	background: blue;*/
+	text-align: center;
+	flex-direction: column;
+	flex-wrap: wrap;
+
+}
+#c3
+{
+	height: 50px;
+/*	background: grey;*/
+    flex-direction: column;
+	flex-wrap: wrap;
+}
+#c4
+{
+	margin: 7px;
+	color: whitesmoke;
+}
+#c5
+{
+	color: whitesmoke;
+	font-size: 20px;
+	float: right;
+	margin: 10px;
+}
+#c6
+{
+	height:600px;
+	background: #332e29;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+#c7
+{
+	height: 600px;
+/*	background: blue;*/
+    background: url(../images/boy11.jpg);
+   background-size: cover;
+}
+#c8
+{
+	font: sans-serif;
+	color: lightgrey;
+	font-size: 20px;
+	margin: 60px;
+}
+#c9
+{
+	color: lightgrey;
+	border: 1px solid white;
+	padding: 10px 25px 10px 25px;
+	margin: 0px 57px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+#c10
+{
+	height: 400px;
+	width: 670px; 
+	margin-left: -15px;
+}
+ 
+#c12
+{
+	height: 100px;
+	width: 500px;
+	background: transparent;
+	margin: 350px -330px ;
+ }
+ #c13
+ {
+ 	font-size: 80px;
+ 	color: white;
+
+ }
+ #c14
+ {
+ 	height: 650px;
+ 	background: #f0e3d7;
+ }
+ #c15
+ {
+ 	height: 70px;
+ 	background: transparent;
+ 	text-align: center;
+ }
+#c16
+{
+	color: black;
+	font-size: 50px;
+}
+#c17
+{
+	height: 30px;
+	background: transparent;
+	text-align: center;
+}
+#c18
+{
+	font-size: 20px;
+	color: black;
+}
+#c19
+{
+	margin: -10px;
+	color: #ef7a2e;
+}
+#c20
+{
+	height: 80px;
+	 background: transparent;
+ 
+}
+#c21
+{
+
+	color: black;
+	text-align: center;
+}
+#c22
+{
+	height: 150px;
+	 
+	background: #ef7a2e;
+	 
+}
+#c23
+{
+	height: 200px;
+	background: transparent;
+	border: 5px solid transparent;
+
+}
+#c24
+{
+	margin: 100px;
+}
+#c25
+{
+	height: 300px;
+	width: 200px;
+	margin: -80px 10px;
+}
+#c26
+{
+	border: 1px solid #ef7a2e;
+	text-decoration: none;
+	color: black;
+	padding: 10px 20px;
+	text-align: center;
+	margin: -20px;
+}
+#c27
+{
+	height: 40px;
+	background: transparent	;
+	text-align: center;
+}
+#c28
+{
+	 text-align: center;
+	 color: #ef7a2e;
+	 font-size: 20px;
+}
+#c24
+{
+	height: 200px;
+	background: transparent;
+	border: 5px solid transparent;
+
+}
+ #sub{
+ 
+ height: 1000px;
+ background-image: url(../images/gymgirl.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+
+ 	  
+
+}
+#sub1{
+background-color: #ef7a2e;
+height: 300px;
+width: 300px;
+border: 20px solid transparent;
+margin-top: 300px;
+margin-left: 10px;
+
+
+
+}
+#sub2{
+background-color: #ef7a2e;
+height: 300px;
+width: 300px;
+border: 10px solid transparent;
+margin-top: 300px;
+margin-left: 20px;
+
+
+}
+#sub3{
+background-color: #ef7a2e;
+height: 300px;
+width: 300px;
+border: 10px solid transparent;
+margin-top: 300px;
+margin-left: 20px;
+
+
+}
+#sub4{
+background-color:#ef7a2e;
+height: 300px;
+width: 300px;
+border: 10px solid transparent;
+margin-top: 300px;
+margin-left: 20px;
+
+
+}
+.icon{
+	height: 60px;
+	width: 60px;
+	background-color: white;
+	border-radius: 30px;
+	font-size: 30px;
+	margin-top: 40px;
+	margin-left: 50px;
+
+}
+.icon1{
+	margin-left: 10.5px;
+	margin-top: 15px;
+	color: #ef7a2e;
+}
+.hea{
+	margin-left: 40px;
+	color: white;
+	font-family: Times New Roman;
+}
+.para{
+	color: white;
+	font-size: 20px;
+	margin-top: -20px;
+}
+.iconn{
+	height: 60px;
+	width: 60px;
+	background-color: white;
+	border-radius: 30px;
+    margin-top: 40px;
+	margin-left: 50px;
+	font-size: 50px;
+
+}
+.icon2{
+	margin-left: 15px;
+	margin-top: 0px;
+	font-size: 45px;
+	color: #ef7a2e;
+}
+.iconnn{
+	height: 65px;
+	width: 65px;
+	background-color: white;
+	border-radius: 45px;
+    margin-top: 42px;
+	margin-left: 50px;
+	font-size: 50px;
+
+}
+.icon3{
+	color: #ef7a2e;
+	margin-left:4.5px;
+	margin-top: 4px;
+	font-size: 55px;
+
+}
+.iconnnn{
+	height: 70px;
+	width: 70px;
+	background-color: white;
+	border-radius: 50px;
+    margin-top: 42px;
+	margin-left: 50px;
+	font-size: 50px;
+
+}
+.icon4{
+	color: #ef7a2e;
+	font-size: 40px;
+	margin-left: 14.5px;
+	margin-top: -10px;
+
+}
+#main1{
+	height: 600px;
+	background-color: #f0e3d7;
+
+}
+#main2{
+	height: 600px;
+	background-color: white;
+}
+.img1{
+	height: 460px;
+	width: 380px;
+	margin-top: 90px;
+	margin-left: 180px;
+}
+.para2{
+	font-size: 30px;
+	margin-top: 100px;
+	margin-left: 60px;
+	font-family: Times New Roman;
+}
+.para3{
+	font-size: 20px;
+	margin-left: 60px;
+}
+.img2{
+	height: 200px;
+	width: 200px;
+	margin-left: 60px;
+}
+#c20
+{
+	margin: 0px 20px;
+}
+.five{
+background-color: #ef7a2e;
+height: 250px;
+width: 100%;
+color: white;
+}
+#five1{
+	font-size: 45px;
+}
+#five2{
+	font-size: 20px;
+}
+#five3{
+	font-size: 20px;
+}
+.fp1{
+	color:#ef7a2e;
+}
+.fp2{
+	width: 140px;
+}
+.six{
+	height: 550px;
+	width: 100%;
+	background-color: #000000;
+}
+.sp1{
+	height: 500px;
+	width: 370px;
+	margin-left: 180px;
+	padding-top: 40px;
+}
+.box{
+	height: 200px;
+	width: 300px;
+	background-color: white;
+	z-index: 1;
+	position: absolute;
+	top: 220px;
+	left: 330px;
+	padding-top: 30px;
+ 
+}
+.sp2{
+	font-size: 25px;
+	margin-left: 20px;
+	 
+}
+.sp3{
+	font-size: 25px;
+	margin-left: 110px;
+}
+#six2
+{
+	width: 250px;
+	border: 1px solid;
+	border-color: transparent transparent black transparent;
+	margin-left: 30px;
+	padding-bottom: 10px;
+}
+.sp5{
+    margin-left: 150px;
+/*    width: 180px;*/
+    border: 1px solid orange;
+    padding: 10px 20px ;
+}
+.sp6{
+	height: 390px;
+	width: 320px;
+	padding-top: 40px;
+	z-index: 2;
+	position: relative;
+}
+.six3{
+	height: 450px;
+	width: 100%;
+	background-color: black;
+}
+.six4{
+	height: 150px;
+	width: 320px;
+	background-color: #ef7a2e;
+	z-index: 1;
+	position: absolute;
+	top: 110px;
+	left: 100px;
+}
+.six5{
+	height: 100px;
+	width: 100%;
+	padding-top: 20px;
+}
+.sp7{
+	color: white;
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+.sp8{
+	color: #F9F9F9;
+	font-size: 13px;
+}
+.sp9{
+	color: #F9F9F9;
+	font-size: 13px;
+}
+#sp4
+{
+	text-decoration: none;
+	color: black;
+	
+
+}
+/*#t1
+{
+	height:400px ;
+	background: ffffff;
+}
+#t2
+{
+	height:400px ;
+	background: red;
+	text-align: center;
+}
+#t3
+{
+	height:400px ;
+	background: green;
+}
+#t4
+{
+	height:400px ;
+	background: blue;
+}
+#t5
+{
+	color: lightgrey;
+}*/

@@ -1,0 +1,142 @@
+.seven{
+	height: 450px;
+	width: 100%;
+	background-color:white;
+}
+
+.first{
+	height: 450px;
+	width: 40%;
+}
+.pa{
+	margin-top: 20px;
+	font-size: 15px;
+}
+.second{
+	height: 450px;
+	width: 20%;
+}
+.third{
+	height: 450px;
+	width: 40%;
+}
+.ic{
+	font-size: 20px;
+}
+.ic1{
+	margin-left: 25px;
+	margin-top: 30px;
+}
+.d1{
+	margin-left: 100px;
+	margin-top: 40px;
+}
+.d2{
+	margin-top: 70px;
+}
+.b1{
+	height: 50px;
+	width: 200px;
+	border: 3px solid orange;
+	margin-top: 80px;
+	margin-left: 20px;
+}
+.img3{
+	height: 300px;
+	width: 300px;
+	margin-left: 35px;
+	margin-top: 60px;
+}
+.d3{
+	height: 450px;
+	width: 370px;
+background-color: #F2E7D5;
+}
+.eight{
+	height: 700px;
+	width: 100%;
+}
+.rect{
+	height: 250px;
+	width: 950px;
+	background-color: orange;
+	z-index: 1;
+	position: absolute;
+	top:250px;
+	left: 300px;
+}
+.box2{
+	height: 600px;
+	width: 800px;
+	background-color: white;
+	z-index: 2;
+	position: absolute;
+	top:80px;
+	left: 380px;
+	padding-top: 30px;
+}
+.contact{
+	font-size: 40px;
+	margin-left: 280px;
+}
+.lb{
+	margin-left: 50px;
+}
+.inp1{
+	width: 320px;
+	height: 50px;
+	background-color: #f2f2f2;
+	border: 1px solid lightgrey;
+	margin-left: 50px;
+}
+.inp2{
+	width: 320px;
+	height: 50px;
+	background-color: #f2f2f2;
+	border: 1px solid lightgrey;
+	margin-left: 30px;
+	font-size: 20px;
+}
+.inp3{
+	width: 320px;
+	height: 50px;
+	background-color: #f2f2f2;
+	border: 1px solid lightgrey;
+	margin-left: 50px;
+	font-size: 20px;
+}
+.inp4{
+	width: 320px;
+	height: 50px;
+	background-color: #f2f2f2;
+	border: 1px solid lightgrey;
+	margin-left: 30px;
+	font-size: ;
+}
+.inp5{
+	height: 200px;
+	width: 673px;
+	margin-left: 50px;
+	background-color: #f2f2f2;
+	border: 1px solid lightgrey;
+	font-size: 20px;
+}
+.submit_btn{
+	height: 50px;
+	width: 120px;
+	margin-left: 50px;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+}
+/*#c40
+{
+	height: 700px;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 1.0);
+	opacity: 0.9;
+}*/
+#t10
+{
+	margin: 0px -180px;
+}
